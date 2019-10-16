@@ -58,6 +58,7 @@ function CookieStand(name, min, max, avg, salesHour, dailyTotal, salesloc, daily
    };
 
 };
+
 var seattle = new CookieStand("seattle", 23, 65, 6.3);
 var tokyo = new CookieStand("tokyo", 3, 24, 1.2);
 var dubai = new CookieStand("dubai", 11, 38, 3.7);
