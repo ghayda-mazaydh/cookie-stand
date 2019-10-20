@@ -1,0 +1,53 @@
+header{
+    text-align: center;
+}
+h1 {text-align: center;
+    color: rgb(223, 179, 121);
+    size: 80%;
+    background-color: rgb(119, 44, 9);  
+    font-style: oblique; 
+}
+li a {
+    text-decoration: none;
+    display: inline-block;
+    color: rgb(245, 214, 174);
+    padding: 50px; 
+    font-size: 150%;
+   
+}
+
+nav ul li {
+display: inline-block;
+}
+nav {
+    background-color: rgb(119, 44, 9);
+    text-align: center;
+    font-style: oblique;
+} 
+
+
+body {
+background-color: rgb(223, 179, 121);
+}
+
+h2 {
+    font-style: oblique;
+    font-size: 35px;
+    margin-left: 80px;
+    color: white;
+}
+.paragraph1 {
+    margin-left: 80px;
+    font-size: 150%;
+}
+
+h3 {
+    font-style: oblique;
+    font-size: 35px;
+    margin-left: 80px;
+    color:white;
+}
+.paragraph2 {
+    margin-left: 80px;
+    font-size: 150%;
+}
